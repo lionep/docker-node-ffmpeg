@@ -1,6 +1,6 @@
 # docker-node-ffmpeg
 
-Docker image for latest stable version of node with ffmpeg binary. This image is made to be used "onbuild", like the node-onbuild images
+Docker image with version 8 of node with ffmpeg binary 4.0+.
 
 ```
 # docker-compose.yml
