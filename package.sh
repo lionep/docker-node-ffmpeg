@@ -2,8 +2,8 @@
 
 
 docker build -t lionep/node-ffmpeg:latest .
-docker build -t lionep/node-ffmpeg:12.17.0 .
-docker build -t lionep/node-ffmpeg:12.17 .
-docker build -t lionep/node-ffmpeg:12 .
+docker build -t lionep/node-ffmpeg:16.13.0 .
+docker build -t lionep/node-ffmpeg:16.13 .
+docker build -t lionep/node-ffmpeg:16 .
 
 docker push lionep/node-ffmpeg
