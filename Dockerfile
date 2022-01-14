@@ -1,4 +1,4 @@
-FROM jrottenberg/ffmpeg:4.0-alpine
+FROM jrottenberg/ffmpeg:4.4-alpine
 MAINTAINER Lionel Penaud <penaud.lionel@gmail.com>
 
 # From https://github.com/nodejs/docker-node/blob/e1103db1e7330f620ec4b5961b93936da11becdf/6.10/Dockerfile
